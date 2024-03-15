@@ -10,7 +10,7 @@ pipeline {
      
         stage('sprint') { 
             steps { 
-               sh 'echo "sprint1 application file..."'
+               sh 'echo "sprint1..."'
             }
         }
 
